@@ -119,14 +119,3 @@ Useful Tips
 Please watch this video to understand how you can learn effectively so that you can get maximum output by investing minimum amount of time.
 
 https://www.youtube.com/watch?v=yZFrSDjRvjk
-
-### Group Study
-
-Group study is always better than studying alone. If you know someone who wants to learn coding as well then make a group and start studying together. Also hold each other accountable and discuss learning milestones with each other. You can join codebasics discord server to find partners for group study.
-
-Discord link: https://discord.gg/r42Kbuk  <-- On this you will find a partner finder channel where you can find similar minded people with whom you can do a group study
-
-### Following discipline and not giving up
-
-Learning coding, especially when you are new, can get frustrating at times. Every good programmer has gone through this pain so if you are facing issues, don't start thinking you are not smart and coding is not your thing. You need to have lot of patience. When you come from non coding background, thinking in terms of coding is a big shift in the mind paradigm hence it can take some time before it starts clicking you.
-
